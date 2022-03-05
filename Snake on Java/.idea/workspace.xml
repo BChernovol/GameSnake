@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b767860-dee5-4b90-a365-52a2875c516e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SFVhHI0u3a9dMzvNvZ4AdBQh6S" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/.idea" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mY Game Pole" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Borys\IdeaProjects\Snake on Java\src" />
+      <recent name="C:\Users\Borys\IdeaProjects\Snake on Java\.idea" />
+      <recent name="C:\Users\Borys\IdeaProjects\Snake on Java" />
+      <recent name="C:\Users\Borys\IdeaProjects\Snake on Java\out" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="GameSnake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameSnake" />
+      <module name="Snake on Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameSnake" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b767860-dee5-4b90-a365-52a2875c516e" name="Default Changelist" comment="" />
+      <created>1571159448393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571159448393</updated>
+      <workItem from="1571159454286" duration="20206000" />
+      <workItem from="1571636503865" duration="5870000" />
+      <workItem from="1571675071247" duration="1480000" />
+      <workItem from="1572118035258" duration="648000" />
+      <workItem from="1572172870409" duration="9066000" />
+      <workItem from="1572279633886" duration="13174000" />
+      <workItem from="1572803639605" duration="6773000" />
+      <workItem from="1572821674401" duration="1200000" />
+      <workItem from="1572851367882" duration="5148000" />
+      <workItem from="1572980669024" duration="30628000" />
+      <workItem from="1573115151547" duration="11063000" />
+      <workItem from="1573154074938" duration="4837000" />
+      <workItem from="1573231029566" duration="5373000" />
+      <workItem from="1573396599753" duration="236000" />
+      <workItem from="1573460540733" duration="5526000" />
+      <workItem from="1573493848543" duration="6626000" />
+      <workItem from="1574279636597" duration="1668000" />
+      <workItem from="1574368014169" duration="26562000" />
+      <workItem from="1574474836710" duration="3291000" />
+      <workItem from="1574519940189" duration="11634000" />
+      <workItem from="1574608020457" duration="4465000" />
+      <workItem from="1574719054474" duration="4028000" />
+      <workItem from="1574772584381" duration="1353000" />
+      <workItem from="1574780140415" duration="17875000" />
+      <workItem from="1574860021118" duration="13353000" />
+      <workItem from="1574938102465" duration="4004000" />
+      <workItem from="1575139947121" duration="19153000" />
+      <workItem from="1575260782293" duration="92000" />
+      <workItem from="1575267832571" duration="4888000" />
+      <workItem from="1575305703694" duration="7126000" />
+      <workItem from="1575313517206" duration="10675000" />
+      <workItem from="1575390874829" duration="12770000" />
+      <workItem from="1575481147384" duration="8414000" />
+      <workItem from="1575701697188" duration="15905000" />
+      <workItem from="1575872470271" duration="10337000" />
+      <workItem from="1575916866317" duration="525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
